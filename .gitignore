@@ -1,0 +1,27 @@
+# Private keys and credentials
+*.pem
+*.key
+id_rsa
+id_ed25519
+id_ecdsa
+*.ppk
+.env
+.env.*
+
+# Virtual machine disks and snapshots
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.qcow2
+*.ova
+*.ovf
+*.sav
+*.vbox-prev
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
